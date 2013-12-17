@@ -1,3 +1,4 @@
 # Node.js: Better Performance With Socket.IO and doT Source Code
 
-Source code for the Nettuts+ article "Node.js: Better Performance With Socket.IO and doT" by Maciej Sopyło.
+This current version of the app is an update from the original design found here,
+https://github.com/tutsplus/nodejs-better-performance
